@@ -21,10 +21,16 @@
       "adaptiveIcon": {
         "foregroundImage": "./assets/Icon-logo.png",
         "backgroundColor": "#f0ffff"
-      }
+      },
+      "package": "com.shanthosh4.MyCaloriesTracker"
     },
     "web": {
       "favicon": "./assets/Icon-logo.png"
+    },
+    "extra": {
+      "eas": {
+        "projectId": "7663dfe6-d227-41af-b09d-5382dc899052"
+      }
     }
   }
 }
